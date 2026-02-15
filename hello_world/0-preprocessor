@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/bin/bash
 gcc -E 0-preprocess.c -o c
